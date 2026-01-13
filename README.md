@@ -26,12 +26,5 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Ömer Faruk's GitHub stats](https://github-readme-stats.vercel.app/api?username=ofk0&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ofk0&layout=compact&theme=radical)  
-
----
-
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ofk0)
