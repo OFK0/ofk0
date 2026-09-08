@@ -1,30 +1,36 @@
-# Hi, I’m Omer 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img alt="Ömer Faruk Küçük, Senior Software / Full Stack Engineer, Istanbul, Turkiye" src="assets/banner-light.svg">
+</picture>
 
-**Senior Frontend Developer | React.js & Vue.js Specialist | Fullstack Experience**
+Eight-plus years of building web products end to end. Most of my depth is on the frontend (React, Vue, Next.js, TypeScript), but the work I enjoy most sits at the seams: consolidating scattered repos into a monorepo so components stop getting copied, moving a PHP gateway onto Node so a team stops context-switching, keeping players in sync on a real-time server that has to stay up.
 
----
+I care about the boring parts, too. Whether a codebase still loads fast in its third year, and whether someone joining next month can ship their first PR that same week.
 
-## 💻 About Me
-- 8+ years of experience in **frontend development** with **React, Vue, Next.js, TypeScript, JavaScript**  
-- Hands-on **backend experience** with Node.js, PHP, REST APIs, and GraphQL  
-- Experienced in **cross-platform projects** and modern web architecture  
-- Passionate about **UI/UX**, clean code, performance optimization, and scalable solutions  
-- Mentor and team player, helping junior developers grow
+## What I work with
 
----
+**Frontend**
 
-## 🛠 Tech Stack
+![React, Next.js, Vue, Nuxt, TypeScript, Tailwind, Sass](https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,ts,tailwind,sass&perline=7)
 
-**Frontend Technologies:** React.js, Vue.js, Next.js, Nuxt.js, JavaScript ES6+, TypeScript, HTML5, CSS3, SCSS, TailwindCSS, Bootstrap, Shadcn UI  
-**State Management:** Vuex, Pinia, Redux, Context API  
-**Build Tools & Bundlers:** Webpack, Vite (My Love), Gulp, Parcel  
-**Testing:** Jest, Unit Testing, Integration Testing  
-**UI/UX:** Responsive Design, Mobile-First Development, Cross-Browser Compatibility  
-**Backend:** Node.js, PHP, REST APIs, GraphQL  
-**Databases:** MySQL, MongoDB, PostgreSQL  
-**Development Tools:** VS Code, ESLint, Prettier, Figma, Adobe XD, Adobe Photoshop  
+TanStack Query, Router and Table
 
----
+**Backend and data**
 
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ofk0)
+![Node.js, Express, Nest.js, Prisma, PHP, Laravel, MySQL, PostgreSQL, MongoDB, Redis, Firebase](https://skillicons.dev/icons?i=nodejs,express,nestjs,prisma,php,laravel,mysql,postgres,mongodb,redis,firebase&perline=11)
+
+**Tooling**
+
+![Vite, Webpack, Docker, Kubernetes, Jest, Cypress, Git](https://skillicons.dev/icons?i=vite,webpack,docker,kubernetes,jest,cypress,git&perline=7)
+
+**AI-assisted**
+
+Claude Code, MCP, Claude Skills, Copilot
+
+## Currently
+
+**Chissi**, a 3D multiplayer chess platform I'm building on my own. An NX monorepo holds a Laravel API, an authoritative Colyseus game server and a React 19 + Three.js client, with the game contracts typed once and shared across services. I build it on an AI-assisted workflow: Claude Code with custom Skills and MCP integrations for implementation, debugging and real-browser testing.
+
+## Elsewhere
+
+[LinkedIn](https://www.linkedin.com/in/ofk0)
