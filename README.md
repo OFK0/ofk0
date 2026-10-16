@@ -3,9 +3,9 @@
   <img alt="Ömer Faruk Küçük, Senior Software / Full Stack Engineer, Istanbul, Turkiye" src="assets/banner-light.svg">
 </picture>
 
-Eight-plus years of building web products end to end. Most of my depth is on the frontend (React, Vue, Next.js, TypeScript), but the work I enjoy most sits at the seams: consolidating scattered repos into a monorepo so components stop getting copied, moving a PHP gateway onto Node so a team stops context-switching, keeping players in sync on a real-time server that has to stay up.
+I have more than eight years of experience building web products from start to finish. I am strongest in frontend (React, Vue, Next.js, TypeScript), and on the backend I work with Node.js, PHP, Python and Go. What I enjoy most is the work between systems: moving scattered repos into one monorepo so teams stop copying components, moving a PHP gateway to Node so a team does not need to switch between languages, and keeping players in sync on a real-time server that must stay online.
 
-I care about the boring parts, too. Whether a codebase still loads fast in its third year, and whether someone joining next month can ship their first PR that same week.
+I also care about the less exciting parts. I want a codebase to stay fast after three years, and I want a new teammate to be able to ship their first PR in the same week they join.
 
 ## What I work with
 
@@ -17,11 +17,11 @@ TanStack Query, Router and Table
 
 **Backend and data**
 
-![Node.js, Express, Nest.js, Prisma, PHP, Laravel, MySQL, PostgreSQL, MongoDB, Redis, Firebase](https://skillicons.dev/icons?i=nodejs,express,nestjs,prisma,php,laravel,mysql,postgres,mongodb,redis,firebase&perline=11)
+![Node.js, Express, Nest.js, Prisma, PHP, Laravel, Python, Go, MySQL, PostgreSQL, MongoDB, Redis, Firebase](https://skillicons.dev/icons?i=nodejs,express,nestjs,prisma,php,laravel,py,go,mysql,postgres,mongodb,redis,firebase&perline=13)
 
 **Tooling**
 
-![Vite, Webpack, Docker, Kubernetes, Jest, Cypress, Git](https://skillicons.dev/icons?i=vite,webpack,docker,kubernetes,jest,cypress,git&perline=7)
+![Vite, Webpack, Docker, Kubernetes, Jest, Cypress, Playwright, Git](https://skillicons.dev/icons?i=vite,webpack,docker,kubernetes,jest,cypress,playwright,git&perline=8)
 
 **AI-assisted**
 
@@ -29,7 +29,9 @@ Claude Code, MCP, Claude Skills, Copilot
 
 ## Currently
 
-**Chissi**, a 3D multiplayer chess platform I'm building on my own. An NX monorepo holds a Laravel API, an authoritative Colyseus game server and a React 19 + Three.js client, with the game contracts typed once and shared across services. I build it on an AI-assisted workflow: Claude Code with custom Skills and MCP integrations for implementation, debugging and real-browser testing.
+**[Piway](https://github.com/OFK0/piway)**, a small platform that runs on a Raspberry Pi. It collects system metrics, deploys apps automatically when I push to git, and sends alerts when something goes wrong. It also has an MCP server, so I can check status, read logs, and deploy or roll back apps with Claude Code.
+
+**Chissi**, a 3D multiplayer chess platform I'm building on my own, with a Laravel API, a Colyseus game server and a React 19 + Three.js client in one NX monorepo.
 
 ## Elsewhere
 
